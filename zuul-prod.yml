@@ -1,0 +1,4 @@
+blackIp:
+  maxContinuousRequest: 35
+  requestInterval: 10
+  limitTime: 600
