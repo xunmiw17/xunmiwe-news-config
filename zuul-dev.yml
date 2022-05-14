@@ -1,4 +1,4 @@
 blackIp:
-  maxContinuousRequest: 10
-  requestInterval: 10
-  limitTime: 15
+  maxContinuousRequest: 20
+  requestInterval: 40
+  limitTime: 10
